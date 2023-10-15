@@ -37,7 +37,7 @@ After cloning the repository you will have a folder called AirBnB_clone. In here
 >
 > models/engine/file_storage.py: Class that serializes instances to a JSON file and deserializes JSON file to instances
 > 
-> models/__ init __.py:  A unique `FileStorage` instance fot program
+> models/__ init __.py:  A unique `FileStorage` instance for program
 > 
 > models/base_model.py: Class that defines all common attributes/methods for other classes.
 > 
