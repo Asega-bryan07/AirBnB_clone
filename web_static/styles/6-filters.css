@@ -14,7 +14,7 @@ section .filters{
 }
 section.filters button {
         background-color: #FF5A5F;
-        text-color: #FFFFFF;
+        color: #FFFFFF;
         height: 48px;
         width: 20%;
         border: 0;
@@ -61,11 +61,11 @@ section.filters button:hover {
 /* Locations and Amenities filters to display a contextual dropdown when the mouse is on the filter*/
 
 .popover {
-background-color:#FAFAFA;
-border: #DDDDDD 1px solid;
-border-radius: 4px;
-position: relative;
-z-index: 1;
+	background-color:#FAFAFA;
+	border: #DDDDDD 1px solid;
+	border-radius: 4px;
+	position: relative;
+	z-index: 1;
 }
 .popover h2 {
 font-size: 16px;

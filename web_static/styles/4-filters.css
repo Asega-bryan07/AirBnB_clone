@@ -13,7 +13,7 @@ section .filters{
 }
 section.filters button {
 	background-color: #FF5A5F;
-	text-color: #FFFFFF;
+	color: #FFFFFF;
 	height: 48px;
 	width: 20%;
 	border: 0;
