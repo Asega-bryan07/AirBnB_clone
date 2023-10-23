@@ -13,6 +13,9 @@ article {
 	margin: 20px;
 	border: #FF5A5F 1px solid;
 	border-radius: 4px;
+	display: inline-block;
+	min-height: 250px;
+	vertical-align: top;
 }
 
 article h2 {
@@ -27,7 +30,7 @@ div .price_by_night {
 	min-width: 60px;
 	height: 60px;
 	font-size: 30px;
-	top: -80;
+	top: -80px;
 	float: right;
 	border-radius: 100%;
 	position: relative;
@@ -41,7 +44,7 @@ div .information {
 }
 
 div .max-guest,
-div .nymbe_rooms,
+div .number_rooms,
 div .number_bathrooms {
 	line-height: 140px;
 	width: 100px;
